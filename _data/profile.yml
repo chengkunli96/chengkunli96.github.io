@@ -1,0 +1,63 @@
+primary_name: 'Chengkun LI'
+secondary_name: ""
+navbar_name: "> Chengkun's Home Page"
+
+positions:
+  - '<span class="no-break"><img src="assets/images/badges/cuhk-logo.png" alt="Macao Polytechnic University" class="inline-badge"/></span> Ph.D. student, the Chinese University of Hong Kong'
+
+email: "chengkunli96@gmial.com"
+gscholar: sY3iWqsAAAAJ
+github: chengkunli96
+# linkedin: your-linked-in-id
+# orcid: 0000-0000-0000-0000
+
+short_bio: >-
+  <p>I am Chengkun LI, I am a Ph.D. student at the Chinese University of Hong Kong (CUHK) and work under the supervision 
+  of Prof. <a href="https://www.cse.cuhk.edu.hk/~qdou/">Qi Dou</a> 
+  and Prof. <a href="https://www.med.cuhk.edu.hk/staff/dr-chan-ying-kuen-jason">Jason Ying-Kuen Chan</a>. 
+  My research interests are rendering, reconstruction & generation for surgical education.
+
+show_portrait: true
+portrait_url: assets/images/photos/portrait_ckli2.jpg
+portrait_caption: >-
+  我是李承坤，欢迎访问我的主页~
+
+education:
+- name: The Chinese University of Hong Kong
+  logo: assets/images/badges/cuhk-logo.png
+  position: Ph.D. in Computer Science and Engineering
+  date: Sep. 2022 - Present
+- name: University College London
+  logo: assets/images/badges/ucl-logo.png
+  position: M.S. in Computer Graphics, Vision and Imaging
+  date: Sep. 2020 - Jul. 2021
+- name: Beihang University
+  logo: assets/images/badges/buaa-logo.png
+  position: B.Eng. in Industrial Engineering & Statistics
+  date: Sep. 2014 - Jul. 2019
+  
+# experience:
+# - name: Tencent
+#   logo: assets/images/badges/tencent.jpg
+#   position: Machine Learning Engineer
+#   date: Jul.2020 - March 2022
+
+# teaching:
+# - name: ENGG1003 TA
+
+# service:
+# - name: Reviewer of NeurIPS, ICLR, AISTATS, RECOMB.
+# - name: Reviewer of International Journal of Computer Vision (<a href="https://link.springer.com/journal/11263">IJCV</a>), IEEE Transactions on Medical Imaging (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">TMI</a>), Medical Image Analysis (<a href="https://www.sciencedirect.com/journal/medical-image-analysis">MedIA</a>), Journal of Biomedical and Health Informatics (<a href="https://www.embs.org/jbhi/">JBHI</a>), Transaction on Biomedical Engineering (<a href="https://www.embs.org/tbme/">TBME</a>).
+
+awards:
+- name: Vice-Chancellor's PhD Scholarship, CUHK
+  date: 2022
+- name: Distinction Honor awared by UCL
+  date: 2021
+- name: Second Prize (top %5) - National Undergraduate Electronic Design Contest, CN
+  date: 2018
+
+# Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
+# if you keep the link to the template so that more people can benefit from it. Thanks!
+footer_text: >-
+  # Design and source code from <a href="https://github.com/WangRongsheng" target="_blank">Rongsheng Wang</a>. 
