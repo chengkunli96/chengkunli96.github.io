@@ -3,7 +3,7 @@ title:          Gaussian Splatting with Reflectance Regularization for Endoscopi
 date:           2025-03-02 00:03:00 +0800
 selected:       true
 pub:            "International Conference on Intelligent Robots and Systems (IROS),"
-pub_pre:        "Submitted to "
+# pub_pre:        "Submitted to "`
 # pub_post:       ' under review,'
 pub_last:       ' <span class="badge badge-pill badge-custom badge-light">under review</span>'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
