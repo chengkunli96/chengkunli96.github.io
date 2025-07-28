@@ -5,11 +5,12 @@ selected:       true
 pub:            "Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization,"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
 pub_date:       "2023"
+abstract:       "* for equal contribution"
 
 cover:          assets/images/covers/RMS_AR_aecai23.png
 authors:
-  - Yonghao Long
-  - Chengkun Li
+  - Yonghao Long *
+  - Chengkun Li *
   - Qi Dou
 links:
   arXiv: https://https://arxiv.org/pdf/2204.04377
