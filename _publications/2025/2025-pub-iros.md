@@ -5,11 +5,11 @@ selected:       true
 pub:            "International Conference on Intelligent Robots and Systems (IROS),"
 # pub_pre:        "Submitted to "`
 # pub_post:       ' under review,'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-light">under review</span>'
-# pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
+# pub_last:       ' <span class="badge badge-pill badge-custom badge-light">under review</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2025"
 
-cover:          assets/images/covers/EndoR2_iros.png
+cover:          assets/images/covers/GSR2_iros25.gif
 authors:
   - Chengkun Li
   - Kai Chen
@@ -17,6 +17,8 @@ authors:
   - Jason Ying-Kuen Chan
   - Qi Dou
 links:
+  Project: https://med-air.github.io/GSR2/
+  Code: https://github.com/med-air/GSR2
 #   Paper: https://openreview.net/forum?id=khuIvzxPRp
 #  Poster: assets/images/poster/icml2024-ws.jpeg
 ---

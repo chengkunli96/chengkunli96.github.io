@@ -20,5 +20,7 @@ authors:
   - Pheng-Ann Heng1
   - Qi Dou
 links:
+  arXiv: https://arxiv.org/abs/2507.06647
   Project: https://med-air.github.io/ClipGS/
+  Code: https://github.com/med-air/ClipGS
 ---
