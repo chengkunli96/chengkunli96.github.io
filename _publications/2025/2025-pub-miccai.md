@@ -5,7 +5,7 @@ selected:       true
 pub:            "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI),"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-success">Early Accept</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-success">Oral</span>'
 pub_date:       "2025"
 
 cover:          assets/images/covers/ClipGS_miccai25.gif
@@ -16,8 +16,8 @@ authors:
   - Zhenya Yang
   - Ruiyang Li
   - Shi Qiu
-  - Jason Ying-Kuen Chan2
-  - Pheng-Ann Heng1
+  - Jason Ying-Kuen Chan
+  - Pheng-Ann Heng
   - Qi Dou
 links:
   arXiv: https://arxiv.org/abs/2507.06647

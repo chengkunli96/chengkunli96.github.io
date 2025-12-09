@@ -3,3 +3,6 @@ pages:
   url: ./
 - name: Publications
   url: publications
+- name: CV
+  url: ./assets/docs/resume_chengkun.pdf
+  target: _blank

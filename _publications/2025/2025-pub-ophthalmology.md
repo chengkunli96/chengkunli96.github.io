@@ -24,5 +24,5 @@ authors:
   - Chi Pui Pang
   - Kelvin Kam Lung Chong
 links:
-  Paper: https://openreview.net/forum?id=khuIvzxPRp
+  Paper: https://www.sciencedirect.com/science/article/abs/pii/S0161642024007516
 ---

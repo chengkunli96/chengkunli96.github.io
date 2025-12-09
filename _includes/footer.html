@@ -1,13 +1,22 @@
 <footer class="footer">
     <div class="container">
-        <div class="row my-3">
-            <div class="col-6">
-                <div class="text-muted">
-                    <i>Last updated: {{ "now" | date: "%b %Y" }}</i>
+        <div class="row align-items-center" style="min-height: 60px;">
+            <div class="col-4">
+                <div style="display: flex; align-items: center; gap: 10px;">
+                    <a href="https://mapmyvisitors.com/web/1c15t" target="_blank" title="Visit tracker">
+                        <img src="https://mapmyvisitors.com/map.png?cl=cbcbcb&w=120&t=n&d=NhfRtoiMfsNle2o7zeCTW2bS6KkfLgdmGsy6BEAXkko&co=fafbfc&cmo=7ecb9c&cmn=f7ad44&ct=111111" 
+                             alt="Visitor Map" 
+                             style="height: 30px; opacity: 0.85;"/>
+                    </a>
+                    <span class="text-muted">
+                        <i>Last updated: {{ "now" | date: "%b %Y" }}</i>
+                    </span>
                 </div>
             </div>
-            <div class="col-6">
-                <div class="text-right text-muted">
+            <div class="col-4 text-center">
+            </div>
+            <div class="col-4 text-right">
+                <div class="text-muted" style="white-space: nowrap;">
                     {{ site.data.profile.footer_text }}
                 </div>
             </div>

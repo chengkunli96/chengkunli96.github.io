@@ -6,7 +6,7 @@ pub:            "International Conference on Intelligent Robots and Systems (IRO
 # pub_pre:        "Submitted to "`
 # pub_post:       ' under review,'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-light">under review</span>'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
 pub_date:       "2025"
 
 cover:          assets/images/covers/GSR2_iros25.gif
