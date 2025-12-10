@@ -43,17 +43,17 @@ education:
   date: Sep. 2014 - Jul. 2019
   
 # experience:
-# - name: Tencent
-#   logo: assets/images/badges/tencent.jpg
-#   position: Machine Learning Engineer
-#   date: Jul.2020 - March 2022
+# - name: The Chinese University of Hong Kong
+#   logo: assets/images/badges/cuhk-logo.png
+#   position: Reaserch Assistant
+#   date: Dec. 2021 - Jun. 2022
+# - name: Beihang University
+#   logo: assets/images/badges/buaa-logo.png
+#   position: Reaserch Assistant
+#   date: Jun. 2019 - Dec. 2019
 
 # teaching:
 # - name: ENGG1003 TA
-
-# service:
-# - name: Reviewer of NeurIPS, ICLR, AISTATS, RECOMB.
-# - name: Reviewer of International Journal of Computer Vision (<a href="https://link.springer.com/journal/11263">IJCV</a>), IEEE Transactions on Medical Imaging (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">TMI</a>), Medical Image Analysis (<a href="https://www.sciencedirect.com/journal/medical-image-analysis">MedIA</a>), Journal of Biomedical and Health Informatics (<a href="https://www.embs.org/jbhi/">JBHI</a>), Transaction on Biomedical Engineering (<a href="https://www.embs.org/tbme/">TBME</a>).
 
 awards:
 - name: Vice-Chancellor's PhD Scholarship, CUHK
@@ -62,6 +62,10 @@ awards:
   date: 2021
 - name: Second Prize (top %5) - National Undergraduate Electronic Design Contest, CN
   date: 2018
+
+# service:
+# - name: Executive Committee of <a href="https://sites.google.com/view/miccai-2025-colas/home" target="_blank">COLAS 2025 (MICCAI Workshop)</a>
+
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
